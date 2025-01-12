@@ -1,5 +1,4 @@
 ## Hi there 👋
-# 👨‍💻 Fullstack Developer | HTML & CSS
 
 Welcome to my GitHub profile! 🚀
 
