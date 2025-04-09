@@ -8,10 +8,10 @@ Welcome to my GitHub profile! 🚀
 
 - **Frontend**:
   - HTML5
-  - CSS3
+  - CSS
 
 - **Database**:
-  - MySQL
+  - SQL
  
 - **Version Control**:
   - Git / GitHub
@@ -35,7 +35,6 @@ Welcome to my GitHub profile! 🚀
 
 - I love contributing to open-source projects.
 - I'm constantly learning new tech to stay updated with industry trends.
-- Cocca is my fuel. ☕
 
 ---
 
