@@ -27,7 +27,6 @@ Welcome to my GitHub profile! 🚀
 ## 🛠️ How to Reach Me
 
 - 📧 Email: [devrobel27@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/your-name](https://linkedin.com/in/your-name)
 
 ---
 
